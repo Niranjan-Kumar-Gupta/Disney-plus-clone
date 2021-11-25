@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Disney-plus-clone-react-js/static/css/main.1f5142de.chunk.css",
+    "main.js": "/Disney-plus-clone-react-js/static/js/main.20c3698f.chunk.js",
+    "main.js.map": "/Disney-plus-clone-react-js/static/js/main.20c3698f.chunk.js.map",
+    "runtime-main.js": "/Disney-plus-clone-react-js/static/js/runtime-main.0aa039dc.js",
+    "runtime-main.js.map": "/Disney-plus-clone-react-js/static/js/runtime-main.0aa039dc.js.map",
+    "static/css/2.44d4d9a9.chunk.css": "/Disney-plus-clone-react-js/static/css/2.44d4d9a9.chunk.css",
+    "static/js/2.77bfcad2.chunk.js": "/Disney-plus-clone-react-js/static/js/2.77bfcad2.chunk.js",
+    "static/js/2.77bfcad2.chunk.js.map": "/Disney-plus-clone-react-js/static/js/2.77bfcad2.chunk.js.map",
+    "index.html": "/Disney-plus-clone-react-js/index.html",
+    "static/css/2.44d4d9a9.chunk.css.map": "/Disney-plus-clone-react-js/static/css/2.44d4d9a9.chunk.css.map",
+    "static/css/main.1f5142de.chunk.css.map": "/Disney-plus-clone-react-js/static/css/main.1f5142de.chunk.css.map",
+    "static/js/2.77bfcad2.chunk.js.LICENSE.txt": "/Disney-plus-clone-react-js/static/js/2.77bfcad2.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/Disney-plus-clone-react-js/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0aa039dc.js",
+    "static/css/2.44d4d9a9.chunk.css",
+    "static/js/2.77bfcad2.chunk.js",
+    "static/css/main.1f5142de.chunk.css",
+    "static/js/main.20c3698f.chunk.js"
+  ]
+}
